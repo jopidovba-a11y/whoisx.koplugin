@@ -20,7 +20,7 @@ A Koreader plugin that helps you remember who a character is. Long-press a name 
 
 1. Long-press a character's name until the  searching popup shows up.
 2. Wait a moment while it searches the book. Tap the screen if you want to cancel.
-3. You get a list with the first 3 appearances and up to 3 appearances right before where you are now.
+3. You get a list with the first 3 appearances and the last 3 appearances until the position of your reading.
 4. Tap any passage to read it with more context.
 
 ## Install
